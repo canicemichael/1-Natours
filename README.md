@@ -1,2 +1,5 @@
 # 1-Natours
-Project Done for reference on how to use html, Css and sass
+A web app where people are given an opportunity to go for an adventure about nature. This is only the front-end part.
+
+Built with html, css, sass
+More like a big reference to frontend development

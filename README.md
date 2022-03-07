@@ -3,4 +3,4 @@ A web app where people are given an opportunity to go for an adventure about nat
 
 Built with html, css, sass.
 
-More like a big reference to frontend development
+More like a big reference to my frontend development.

@@ -1,5 +1,5 @@
 # 1-Natours
-A web app where people are given an opportunity to go for an adventure about nature. This is only the front-end part.
+An app to connect people who want to explore or take a tour deep natural environments. This is only the front-end part.
 
 Built with html, css, sass.
 

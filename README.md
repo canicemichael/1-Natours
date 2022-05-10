@@ -1,6 +1,4 @@
 # Natours
-An app to connect people who want to explore or take a tour deep natural environments. This is only the front-end part.
+A website/landing page for a fictional company that offers tours in the nature.
 
-Built with html, css, sass.
-
-More like a big reference to my frontend development.
+Used Html, advanced css, sass.
